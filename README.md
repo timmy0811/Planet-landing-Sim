@@ -4,3 +4,5 @@ This project is all about landing secure on a strange planet without getting dam
 ### The Controlls
   * use ``Space`` to use the main thrust, it can be used to accelerate the craft up or down
   * use ``Arrow-Keys`` to use the side-thruster and steer the craft around it's own axis
+
+![image](https://user-images.githubusercontent.com/78268431/109874100-f4c91e00-7c6e-11eb-849a-1ac6c9f9689b.png)
